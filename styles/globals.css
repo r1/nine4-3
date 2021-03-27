@@ -1,0 +1,102 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url(//db.onlinewebfonts.com/c/e5c490a944bc2b2746f0c851501e46c7?family=AvenirNextW10-Bold);
+@import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  background-color: #000000;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.g327 {
+  border-color: #302f30;
+}
+
+@font-face {
+  font-family: "AvenirNextW10-Bold";
+  src: url("//db.onlinewebfonts.com/t/e5c490a944bc2b2746f0c851501e46c7.eot");
+  src: url("//db.onlinewebfonts.com/t/e5c490a944bc2b2746f0c851501e46c7.eot?#iefix")
+      format("embedded-opentype"),
+    url("//db.onlinewebfonts.com/t/e5c490a944bc2b2746f0c851501e46c7.woff2")
+      format("woff2"),
+    url("//db.onlinewebfonts.com/t/e5c490a944bc2b2746f0c851501e46c7.woff")
+      format("woff"),
+    url("//db.onlinewebfonts.com/t/e5c490a944bc2b2746f0c851501e46c7.ttf")
+      format("truetype"),
+    url("//db.onlinewebfonts.com/t/e5c490a944bc2b2746f0c851501e46c7.svg#AvenirNextW10-Bold")
+      format("svg");
+}
+
+.Avenir {
+  font-family: AvenirNextW10-Bold;
+  font-display: swap;
+}
+
+.grr {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.txg {
+  color: #b8bcbf;
+}
+
+.ld-04 {
+  letter-spacing: 0.025em;
+}
+
+.lh-6 {
+  line-height: 1.08;
+}
+
+.text-80 {
+  font-size: 80px;
+}
+
+.font-4 {
+  font-family: Inter, sans-serif;
+}
+
+.tr04 {
+  transition: 0.4s;
+}
+
+.clearNav {
+  backdrop-filter: saturate(180%) blur(5px) !important;
+  background-color: rgba(0, 0, 0, 0.7) !important;
+}
+
+.fsac4 {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  grid-gap: 32px;
+}
+
+@media (min-width: 720px) {
+  .fsac4 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.ktq4 {
+  background-color: #101111;
+  padding: 2rem;
+  border-radius: 10px;
+}
+
+.fkrr1 {
+  font-family: "Inter", sans-serif;
+}
