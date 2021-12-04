@@ -2,10 +2,10 @@ export default function Main() {
   return (
     <section class="text-gray-600 body-font">
       <div class="max-w-5xl pt-52 pb-24 mx-auto">
-        <h1 class="text-80 text-center font-4 lh-6 ld-04 font-bold title-font text-white mb-6">
+        <h1 class="text-80 text-center font-4 lh-6 ld-04 font-bold text-white mb-6">
           Create your next website fast and easy
         </h1>
-        <h2 class="text-2xl font-4 lh-6 ld-04 title-font pb-11 text-gray-700 text-center">
+        <h2 class="text-2xl font-4 lh-6 ld-04 pb-11 text-gray-700 text-center">
           nine4 is a free to use template website for websites made
           <br />
           with Next.js and styled with Tailwind CSS
