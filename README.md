@@ -1,4 +1,4 @@
-# NINE4 TEMPLATE #2
+# NINE4 TEMPLATE #3
 <img src="./img/main-page.png"></img>
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
